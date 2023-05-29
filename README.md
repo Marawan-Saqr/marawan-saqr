@@ -22,3 +22,12 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marawan-Saqr&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marawan-Saqr&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marawan-Saqr&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marawan-Saqr&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marawan-Saqr&theme=aura_dark&utcOffset=8)
+
