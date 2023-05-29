@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F70000&background=010622&center=true&vCenter=true&width=435&lines=Hello+I+Am+A+Front-End+Angular)](https://git.io/typing-svg)
+
 <h1 align="center">Front-End Angular Marawan Saqr</h1>
 <h3 align="center">Front-End Angular At American Academy</h3>
 
