@@ -19,3 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marawan-saqr&show_icons=true&locale=en" alt="marawan-saqr" /></p>
 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marawan-Saqr&theme=aura_dark)
